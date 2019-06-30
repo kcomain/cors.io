@@ -2,7 +2,7 @@
 a simple cors proxy
 
 Now fully flaskified, and ready for deployment on heroku.
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Table of Contents
 
 - [Supported HTTP Methods](#Supported-HTTP-Methods)
